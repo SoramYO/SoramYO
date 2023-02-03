@@ -14,6 +14,11 @@
 <br> \- Outside tech,  📖 I love to read manga and watch anime, 🎵 listen to music, and 🌴 explore nature outdoors.
 <br> \- 📫 Reach out to me at: ngoxuanson121@gmail.com.
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SoramYO/count.svg" />
+</p>
+
 ## <img src="https://c.tenor.com/moaQHad4VcMAAAAi/ram-dance.gif" width="30px">&nbsp;***Github Stats***
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SoramYO" alt="SoramYO" /> </p>
 
