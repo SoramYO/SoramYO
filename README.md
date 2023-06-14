@@ -26,7 +26,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoramYO&theme=gotham&show_icons=true" alt="SoramYO" />
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SoramYO&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="SoramYO" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoramYO&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="SoramYO" /></p>
+
 
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoramYO&theme=tokyo-night)](https://github.com/SoramYO/github-readme-activity-graph)
