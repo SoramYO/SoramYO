@@ -7,8 +7,9 @@
  
 \- 🌱 I’m currently learning :
   <br> &nbsp; ✔ C.
-  <br> &nbsp; ✔ CSS.
-   <br> &nbsp; ✔ React Native.
+  <br> &nbsp; ✔ HTML/CSS.
+  <br> &nbsp; ✔ React Native.
+  <br> &nbsp; ✔ JAVA.
 <br> \- 👯 I’m looking forward to collaborate on open source projects.
 <br> \- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉.
 <br> \- Outside tech,  📖 I love to read manga and watch anime, 🎵 listen to music, and 🌴 explore nature outdoors.
