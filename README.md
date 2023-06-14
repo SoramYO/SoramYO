@@ -29,4 +29,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoramYO&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="SoramYO" /></p>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=SoramYO&theme=react-dark&hide_border=true&area=true)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
