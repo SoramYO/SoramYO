@@ -29,5 +29,4 @@
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SoramYO&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="SoramYO" />
 
 
-
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoramYO&theme=tokyo-night)](https://github.com/SoramYO/github-readme-activity-graph)
