@@ -29,4 +29,4 @@
 
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoramYO&theme=tokyo-night)](https://github.com/SoramYO/github-readme-activity-graph)
-<iframe src="https://github.com/sponsors/SoramYO/card" title="Sponsor SoramYO" height="225" width="600" style="border: 0;"></iframe>
+<p src="https://github.com/sponsors/SoramYO/card" title="Sponsor SoramYO" height="225" width="600" style="border: 0;"></p>
