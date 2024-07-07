@@ -32,3 +32,5 @@
 <p src="https://github.com/sponsors/SoramYO/card" title="Sponsor SoramYO" height="225" width="600" style="border: 0;"></p>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@76d89a46-4fc2-4a61-bef3-08f96e8cebab/b4b8fea4-96de-4588-ac39-3470764dcab9.png" /></a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
