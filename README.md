@@ -29,7 +29,7 @@
 
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoramYO&theme=tokyo-night)](https://github.com/SoramYO/github-readme-activity-graph)
-<p src="https://github.com/sponsors/SoramYO/card" title="Sponsor SoramYO" height="225" width="600" style="border: 0;"></p>
+
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
