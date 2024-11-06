@@ -15,10 +15,9 @@
 <br> \- Outside tech,  📖 I love to read manga and watch anime, 🎵 listen to music, and 🌴 explore nature outdoors.
 <br> \- 📫 Reach out to me at: ngoxuanson121@gmail.com.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SoramYO/count.svg" />
-</p>
+<div align="center">
+    <img src="https://count.getloli.com/get/@pth-1641?theme=rule34" />
+</div>
 
 ## <img src="https://c.tenor.com/moaQHad4VcMAAAAi/ram-dance.gif" width="30px">&nbsp;***Github Stats***
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SoramYO" alt="SoramYO" /> </p>
@@ -30,6 +29,15 @@
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoramYO&theme=tokyo-night)](https://github.com/SoramYO/github-readme-activity-graph)
 
+<div align="left"><img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/skill-icons/gmail-light.svg" alt="skill-icons:gmail-light" height="40" />
+</div>
+<div align="center">
+      <img src=" https://readme-jokes.vercel.app/api?theme=tokyonight" alt=""/>
+</div>
 
 <!--START_SECTION:waka-->
 
