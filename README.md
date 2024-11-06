@@ -29,12 +29,6 @@
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoramYO&theme=tokyo-night)](https://github.com/SoramYO/github-readme-activity-graph)
 
-<div align="left"><img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="40" />
-    <img width="10" />
-    <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="40" />
-    <img width="10" />
-    <img src="https://api.iconify.design/skill-icons/gmail-light.svg" alt="skill-icons:gmail-light" height="40" />
-</div>
 <div align="center">
       <img src=" https://readme-jokes.vercel.app/api?theme=tokyonight" alt=""/>
 </div>
